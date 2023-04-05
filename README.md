@@ -16,3 +16,7 @@ Datasets:
 Primary Dataset – Insurance Sample Dataset
 
 Secondary Dataset – Global Financial Development Database
+
+  Tableau Public Profile
+https://public.tableau.com/app/profile/pavan.lande  
+
